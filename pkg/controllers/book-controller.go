@@ -1,3 +1,5 @@
-package controller
+package controllers
 
-// Test
+func GetBooks() {
+
+}
